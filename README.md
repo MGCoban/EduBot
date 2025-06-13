@@ -113,8 +113,9 @@ Bu proje açık kaynak kodludur. Katkılarınızı bekliyoruz:
 
 ## 👥 Geliştirici
 
-**Murat Görkem Çoban** - Veri Bilimi ve Makine Öğrenmesi Uzmanı
-**Begüm Erva Şahin** - Veri Bilimi ve Makine Öğrenmesi Uzmanı
+-**Murat Görkem Çoban** - Veri Bilimi ve Makine Öğrenmesi Uzmanı
+
+-**Begüm Erva Şahin** - Veri Bilimi ve Makine Öğrenmesi Uzmanı
 
 
 ## 📞 İletişim
