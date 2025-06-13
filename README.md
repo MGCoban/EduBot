@@ -110,13 +110,12 @@ Bu proje açık kaynak kodludur. Katkılarınızı bekliyoruz:
 3. Değişikliklerinizi commit edin
 4. Pull request gönderin
 
-## 📝 Lisans
-
-Bu proje MIT lisansı altında geliştirilmiştir.
 
 ## 👥 Geliştirici
 
-**Murat Çoban** - Veri Bilimi ve Makine Öğrenmesi Uzmanı
+**Murat Görkem Çoban** - Veri Bilimi ve Makine Öğrenmesi Uzmanı
+**Begüm Erva Şahin** - Veri Bilimi ve Makine Öğrenmesi Uzmanı
+
 
 ## 📞 İletişim
 
